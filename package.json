@@ -10,15 +10,9 @@
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
     "react-scroll": "^1.8.9",
-    "web-vitals": "^2.1.4",
-    "homepage": "https://Anand3643.github.io/NewPort"
-
-    
-    
+    "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -45,5 +39,4 @@
   "devDependencies": {
     "gh-pages": "^6.0.0"
   }
-
 }
